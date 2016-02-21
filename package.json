@@ -1,0 +1,27 @@
+{
+  "name": "crime-uk",
+  "version": "1.0.0",
+  "description": "UK Crime data. This is consolidation of, pointers to, and scripts for, data\r from various sources, primarily the UK Government site at\r <http://police.uk/data>.",
+  "main": "./scripts/scrape.js",
+  "scripts": {
+    "start": "node ./scripts/scrape.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaseyLeask/crime-uk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaseyLeask/crime-uk/issues"
+  },
+  "homepage": "https://github.com/CaseyLeask/crime-uk#readme",
+  "dependencies": {
+    "csv": "^0.4.6",
+    "jsdom": "^8.0.4",
+    "proj4": "^2.3.12",
+    "proj4js": "^10.0.0",
+    "request": "^2.69.0"
+  }
+}

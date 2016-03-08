@@ -183,7 +183,7 @@
     "id": "365236",
     "name": "Macey",
     "gender": "Female",
-    "breed": "Border Collie x Bull Terrier Mix"
+    "breed": "Bull Terrier x Border Collie Mix"
   },
   {
     "id": "367968",
@@ -228,22 +228,10 @@
     "breed": "Fox Terrier x Kelpie Mix"
   },
   {
-    "id": "374739",
-    "name": "Priscilla",
-    "gender": "Female",
-    "breed": "Terrier Mix"
-  },
-  {
     "id": "377116",
     "name": "Molly Jones",
     "gender": "Female",
     "breed": "Beagle"
-  },
-  {
-    "id": "377495",
-    "name": "Frankie",
-    "gender": "Male",
-    "breed": "German Shepherd Mix"
   },
   {
     "id": "379622",
@@ -532,12 +520,6 @@
     "name": "Lyla",
     "gender": "Female",
     "breed": "Japanese Chin"
-  },
-  {
-    "id": "398204",
-    "name": "Cheeka ~ Sweet Affectionate Girl ",
-    "gender": "Female",
-    "breed": "Staffordshire Bull Terrier Mix"
   },
   {
     "id": "398280",
@@ -888,6 +870,12 @@
     "breed": "Chihuahua x Jack Russell Terrier Mix"
   },
   {
+    "id": "418091",
+    "name": "Sandi",
+    "gender": "Female",
+    "breed": "Greyhound"
+  },
+  {
     "id": "418853",
     "name": "Trixie",
     "gender": "Female",
@@ -960,12 +948,6 @@
     "breed": "Greyhound"
   },
   {
-    "id": "421675",
-    "name": "Bruce",
-    "gender": "Male",
-    "breed": "Johnson Bulldog Mix"
-  },
-  {
     "id": "421714",
     "name": "Snow",
     "gender": "Female",
@@ -976,12 +958,6 @@
     "name": "Jasmine",
     "gender": "Female",
     "breed": "Bull Arab Mix"
-  },
-  {
-    "id": "422245",
-    "name": "Luna",
-    "gender": "Female",
-    "breed": "Bullmastiff x German Shepherd Mix"
   },
   {
     "id": "422321",
@@ -1074,16 +1050,16 @@
     "breed": "Australian Cattledog Mix"
   },
   {
+    "id": "423637",
+    "name": "Chief Id29881",
+    "gender": "Male",
+    "breed": "American Bulldog"
+  },
+  {
     "id": "423744",
     "name": "Monty",
     "gender": "Male",
     "breed": "Staghound Mix"
-  },
-  {
-    "id": "423975",
-    "name": "George (Female)",
-    "gender": "Female",
-    "breed": "Fox Terrier Mix"
   },
   {
     "id": "423976",
@@ -1114,12 +1090,6 @@
     "name": "Winnie",
     "gender": "Female",
     "breed": "Wolfhound Mix"
-  },
-  {
-    "id": "424562",
-    "name": "Genti 835437",
-    "gender": "Male",
-    "breed": "German Shepherd x Rottweiler"
   },
   {
     "id": "424635",
@@ -1164,12 +1134,6 @@
     "breed": "Siberian Husky"
   },
   {
-    "id": "425285",
-    "name": "Cole Id30005",
-    "gender": "Male",
-    "breed": "Kelpie x Whippet"
-  },
-  {
     "id": "425680",
     "name": "Tess And Digby",
     "gender": "Female",
@@ -1198,12 +1162,6 @@
     "name": "Colin",
     "gender": "Male",
     "breed": "Chihuahua x Jack Russell Terrier"
-  },
-  {
-    "id": "426055",
-    "name": "Polly  **No More Enquiries Please***",
-    "gender": "Female",
-    "breed": "Australian Bulldog x French Bulldog"
   },
   {
     "id": "426059",
@@ -1303,7 +1261,7 @@
   },
   {
     "id": "426965",
-    "name": "Batman",
+    "name": "Batman  **No More Enquiries Please**",
     "gender": "Male",
     "breed": "Pug"
   },
@@ -1332,8 +1290,14 @@
     "breed": "Staffy Mix"
   },
   {
+    "id": "427511",
+    "name": "Koko",
+    "gender": "Male",
+    "breed": "Kelpie x Labrador"
+  },
+  {
     "id": "427513",
-    "name": "Kaeleb",
+    "name": "Jacob",
     "gender": "Male",
     "breed": "Bull Arab x Mastiff Mix"
   },
@@ -1366,12 +1330,6 @@
     "name": "Jacko",
     "gender": "Male",
     "breed": "Kelpie Mix"
-  },
-  {
-    "id": "427760",
-    "name": "Rufus And Tiggy   Currently On A 2 Week Trial",
-    "gender": "Male",
-    "breed": "Cocker Spaniel, English x Maltese Mix"
   },
   {
     "id": "427769",
@@ -1456,12 +1414,6 @@
     "name": "Nova",
     "gender": "Female",
     "breed": "German Shepherd x Kelpie Mix"
-  },
-  {
-    "id": "429279",
-    "name": "Banjo 837401",
-    "gender": "Male",
-    "breed": "Koolie"
   },
   {
     "id": "429292",
@@ -1578,12 +1530,6 @@
     "breed": "Greyhound"
   },
   {
-    "id": "430395",
-    "name": "Narla *Applications Closed*",
-    "gender": "Female",
-    "breed": "Doberman Mix"
-  },
-  {
     "id": "430552",
     "name": "Tia (Needing Foster Care)",
     "gender": "Female",
@@ -1594,12 +1540,6 @@
     "name": "Bella",
     "gender": "Female",
     "breed": "Jack Russell Terrier"
-  },
-  {
-    "id": "430578",
-    "name": "Tommy ",
-    "gender": "Male",
-    "breed": "Kelpie"
   },
   {
     "id": "430605",
@@ -1621,7 +1561,7 @@
   },
   {
     "id": "430707",
-    "name": "Riley  *** No More Enquiries *** ",
+    "name": "Riley  * On Trial *",
     "gender": "Male",
     "breed": "Chihuahua"
   },
@@ -1692,22 +1632,10 @@
     "breed": "Kelpie Mix"
   },
   {
-    "id": "431093",
-    "name": "Maxi 839633",
-    "gender": "Male",
-    "breed": "Kelpie"
-  },
-  {
     "id": "431102",
     "name": "Jermaine 812354",
     "gender": "Male",
     "breed": "Kelpie"
-  },
-  {
-    "id": "431132",
-    "name": "Poppy",
-    "gender": "Female",
-    "breed": "Pug"
   },
   {
     "id": "431324",
@@ -1762,6 +1690,18 @@
     "name": "Rebel",
     "gender": "Female",
     "breed": "Mixed Breed"
+  },
+  {
+    "id": "431771",
+    "name": "Panda",
+    "gender": "Male",
+    "breed": "Mastiff Mix"
+  },
+  {
+    "id": "431773",
+    "name": "Pip",
+    "gender": "Female",
+    "breed": "Pointer Mix"
   },
   {
     "id": "431884",
@@ -1830,24 +1770,6 @@
     "breed": "Labrador x Pointer Mix"
   },
   {
-    "id": "432148",
-    "name": "Homer",
-    "gender": "Male",
-    "breed": "Cocker Spaniel, English"
-  },
-  {
-    "id": "432149",
-    "name": "Lulu",
-    "gender": "Female",
-    "breed": "Shih Tzu"
-  },
-  {
-    "id": "432176",
-    "name": "Mac",
-    "gender": "Male",
-    "breed": "Welsh Corgi Mix"
-  },
-  {
     "id": "432184",
     "name": "Baby",
     "gender": "Female",
@@ -1858,12 +1780,6 @@
     "name": "Torrie.. Cute Puppy Toilet Trained",
     "gender": "Female",
     "breed": "Mastiff Mix"
-  },
-  {
-    "id": "432301",
-    "name": "Roxy (On Trial 28/2/16)",
-    "gender": "Female",
-    "breed": "Staffy Mix"
   },
   {
     "id": "432312",
@@ -1878,22 +1794,10 @@
     "breed": "Kelpie Mix"
   },
   {
-    "id": "432400",
-    "name": "Sleepy  840771",
-    "gender": "Male",
-    "breed": "Greyhound"
-  },
-  {
     "id": "432404",
     "name": "Piper 838552",
     "gender": "Female",
     "breed": "Staffordshire Bull Terrier Mix"
-  },
-  {
-    "id": "432409",
-    "name": "Lorena 840768",
-    "gender": "Female",
-    "breed": "Greyhound"
   },
   {
     "id": "432539",
@@ -1950,12 +1854,6 @@
     "breed": "Kelpie Mix"
   },
   {
-    "id": "432959",
-    "name": "Jack 839812",
-    "gender": "Male",
-    "breed": "Siberian Husky"
-  },
-  {
     "id": "433095",
     "name": "Tessa 8368180",
     "gender": "Female",
@@ -1966,12 +1864,6 @@
     "name": "Toby 839955",
     "gender": "Male",
     "breed": "Whippet"
-  },
-  {
-    "id": "433098",
-    "name": "Precious 840060",
-    "gender": "Female",
-    "breed": "Staffordshire Bull Terrier Mix"
   },
   {
     "id": "433125",
@@ -2046,12 +1938,6 @@
     "breed": "Kelpie Mix"
   },
   {
-    "id": "433639",
-    "name": "Coco",
-    "gender": "Female",
-    "breed": "Kelpie Mix"
-  },
-  {
     "id": "433651",
     "name": "Georgie Girl",
     "gender": "Female",
@@ -2074,18 +1960,6 @@
     "name": "Troy 841166",
     "gender": "Male",
     "breed": "Greyhound"
-  },
-  {
-    "id": "433726",
-    "name": "Patches 839421",
-    "gender": "Male",
-    "breed": "Shih Tzu Mix"
-  },
-  {
-    "id": "433748",
-    "name": "Dusty 839394",
-    "gender": "Male",
-    "breed": "Staffordshire Bull Terrier Mix"
   },
   {
     "id": "433754",
@@ -2172,12 +2046,6 @@
     "breed": "Kelpie Mix"
   },
   {
-    "id": "434254",
-    "name": "Amber",
-    "gender": "Female",
-    "breed": "Bull Arab Mix"
-  },
-  {
     "id": "434315",
     "name": "Andy",
     "gender": "Male",
@@ -2209,7 +2077,7 @@
   },
   {
     "id": "434475",
-    "name": "Lacey",
+    "name": "Lacey *Application Pending*",
     "gender": "Female",
     "breed": "Australian Cattle Dog x Kelpie Mix"
   },
@@ -2238,18 +2106,6 @@
     "breed": "Pomeranian"
   },
   {
-    "id": "434548",
-    "name": "Timmy ",
-    "gender": "Male",
-    "breed": "Jack Russell Terrier Mix"
-  },
-  {
-    "id": "434551",
-    "name": "Cassie 806222",
-    "gender": "Female",
-    "breed": "Rottweiler"
-  },
-  {
     "id": "434554",
     "name": "Keisha ",
     "gender": "Female",
@@ -2266,12 +2122,6 @@
     "name": "Rufus 840471",
     "gender": "Male",
     "breed": "German Shepherd x Mastiff"
-  },
-  {
-    "id": "434592",
-    "name": "Troy 841166",
-    "gender": "Male",
-    "breed": "Greyhound"
   },
   {
     "id": "434656",
@@ -2340,12 +2190,6 @@
     "breed": "Jack Russell Terrier Mix"
   },
   {
-    "id": "434731",
-    "name": "Penny",
-    "gender": "Female",
-    "breed": "Cocker Spaniel, English"
-  },
-  {
     "id": "434752",
     "name": "Baron (Now Has Holding Deposit )",
     "gender": "Male",
@@ -2406,28 +2250,10 @@
     "breed": "Kelpie Mix"
   },
   {
-    "id": "434971",
-    "name": "Lexi Id: ",
-    "gender": "Female",
-    "breed": "Staghound x Whippet Mix"
-  },
-  {
     "id": "435007",
     "name": "Pan",
     "gender": "Male",
     "breed": "Jack Russell Terrier x Pomeranian Mix"
-  },
-  {
-    "id": "435034",
-    "name": "Billy",
-    "gender": "Male",
-    "breed": "Border Collie"
-  },
-  {
-    "id": "435066",
-    "name": "Hamish 756760 ",
-    "gender": "Male",
-    "breed": "Maltese x Shih Tzu Mix"
   },
   {
     "id": "435108",
@@ -2442,34 +2268,10 @@
     "breed": "Border Collie x Staffy Mix"
   },
   {
-    "id": "435141",
-    "name": "Toby Id 30150",
-    "gender": "Male",
-    "breed": "Catahoula x Rottweiler Mix"
-  },
-  {
-    "id": "435193",
-    "name": "Lilly",
-    "gender": "Female",
-    "breed": "Jack Russell Terrier Mix"
-  },
-  {
     "id": "435207",
     "name": "Bobby",
     "gender": "Male",
     "breed": "Staffy"
-  },
-  {
-    "id": "435220",
-    "name": "Mia",
-    "gender": "Female",
-    "breed": "Pug Mix"
-  },
-  {
-    "id": "435221",
-    "name": "Banjo",
-    "gender": "Male",
-    "breed": "Boxer"
   },
   {
     "id": "435242",
@@ -2550,22 +2352,10 @@
     "breed": "Boxer x British Bulldog Mix"
   },
   {
-    "id": "435451",
-    "name": "Spencer *Adoption Pending*",
-    "gender": "Male",
-    "breed": "Border Collie"
-  },
-  {
     "id": "435454",
     "name": "Jazz",
     "gender": "Female",
     "breed": "Pug"
-  },
-  {
-    "id": "435520",
-    "name": "Jake",
-    "gender": "Male",
-    "breed": "Kelpie"
   },
   {
     "id": "435607",
@@ -2592,22 +2382,10 @@
     "breed": "Beagle"
   },
   {
-    "id": "435711",
-    "name": "Cassie",
-    "gender": "Female",
-    "breed": "Labrador"
-  },
-  {
     "id": "435713",
     "name": "Johnno 840348",
     "gender": "Male",
     "breed": "Beagle"
-  },
-  {
-    "id": "435715",
-    "name": "Scamp 838840",
-    "gender": "Female",
-    "breed": "Terrier"
   },
   {
     "id": "435722",
@@ -2616,22 +2394,10 @@
     "breed": "Staffy Mix"
   },
   {
-    "id": "435766",
-    "name": "Spotty 839469",
-    "gender": "Male",
-    "breed": "American Staffordshire Bull Terrier"
-  },
-  {
     "id": "435768",
     "name": "Max 840913",
     "gender": "Male",
     "breed": "Staffordshire Bull Terrier"
-  },
-  {
-    "id": "435770",
-    "name": "Patty 839776",
-    "gender": "Male",
-    "breed": "Jack Russell Terrier"
   },
   {
     "id": "435842",
@@ -2674,12 +2440,6 @@
     "name": "Bell",
     "gender": "Female",
     "breed": "Kelpie x Staffy Mix"
-  },
-  {
-    "id": "435875",
-    "name": "Pixie",
-    "gender": "Female",
-    "breed": "Chihuahua Mix"
   },
   {
     "id": "435888",
@@ -2815,7 +2575,7 @@
   },
   {
     "id": "436232",
-    "name": "Lacey (Photos To Come 6/3/16)",
+    "name": "Lacey ",
     "gender": "Female",
     "breed": "Shar Pei Mix"
   },
@@ -2836,12 +2596,6 @@
     "name": "Cody",
     "gender": "Male",
     "breed": "Kelpie x Staffy Mix"
-  },
-  {
-    "id": "436292",
-    "name": "Bailey",
-    "gender": "Female",
-    "breed": "Border Collie x Kelpie Mix"
   },
   {
     "id": "436312",
@@ -2890,5 +2644,281 @@
     "name": "Mila",
     "gender": "Female",
     "breed": "Rhodesian Ridgeback Mix"
+  },
+  {
+    "id": "436430",
+    "name": "Ned ",
+    "gender": "Male",
+    "breed": "Great Dane x Staghound Mix"
+  },
+  {
+    "id": "436431",
+    "name": "Guy",
+    "gender": "Male",
+    "breed": "Kelpie Mix"
+  },
+  {
+    "id": "436432",
+    "name": "Vander",
+    "gender": "Male",
+    "breed": "Australian Cattle Dog x Staffordshire Bull Terrier Mix"
+  },
+  {
+    "id": "436434",
+    "name": "Ollie",
+    "gender": "Male",
+    "breed": "Rhodesian Ridgeback x Staghound Mix"
+  },
+  {
+    "id": "436436",
+    "name": "Paddington",
+    "gender": "Male",
+    "breed": "Staffy Mix"
+  },
+  {
+    "id": "436437",
+    "name": "Heidi",
+    "gender": "Female",
+    "breed": "Australian Cattle Dog Mix"
+  },
+  {
+    "id": "436459",
+    "name": "Chase",
+    "gender": "Male",
+    "breed": "American Staffordshire Bull Terrier"
+  },
+  {
+    "id": "436478",
+    "name": "Sparrow",
+    "gender": "Male",
+    "breed": "Staffy Mix"
+  },
+  {
+    "id": "436481",
+    "name": "Tink",
+    "gender": "Female",
+    "breed": "Jack Russell Terrier Mix"
+  },
+  {
+    "id": "436487",
+    "name": "Sweetie",
+    "gender": "Female",
+    "breed": "Kelpie Mix"
+  },
+  {
+    "id": "436503",
+    "name": "Skater 841854",
+    "gender": "Male",
+    "breed": "Greyhound"
+  },
+  {
+    "id": "436504",
+    "name": "Dora 841955",
+    "gender": "Female",
+    "breed": "Greyhound"
+  },
+  {
+    "id": "436505",
+    "name": "Rally 840850",
+    "gender": "Female",
+    "breed": "Kelpie x Staffordshire Bull Terrier"
+  },
+  {
+    "id": "436515",
+    "name": "Tyler 841119",
+    "gender": "Male",
+    "breed": "Staffordshire Bull Terrier x English"
+  },
+  {
+    "id": "436524",
+    "name": "Tess 836418",
+    "gender": "Female",
+    "breed": "Boxer x Staffy"
+  },
+  {
+    "id": "436527",
+    "name": "Dusty 841847",
+    "gender": "Female",
+    "breed": "Greyhound"
+  },
+  {
+    "id": "436528",
+    "name": "Isaac 841954",
+    "gender": "Male",
+    "breed": "Greyhound"
+  },
+  {
+    "id": "436531",
+    "name": "Occy & Zephyr   Father And Son. Available July!",
+    "gender": "Male",
+    "breed": "Staffy"
+  },
+  {
+    "id": "436579",
+    "name": "Harvey",
+    "gender": "Male",
+    "breed": "Bull Arab Mix"
+  },
+  {
+    "id": "436603",
+    "name": "Phoenix",
+    "gender": "Male",
+    "breed": "American Bulldog Mix"
+  },
+  {
+    "id": "436608",
+    "name": "Dash",
+    "gender": "Female",
+    "breed": "Staffordshire Bull Terrier Mix"
+  },
+  {
+    "id": "436609",
+    "name": "Chloe",
+    "gender": "Female",
+    "breed": "Staffy Mix"
+  },
+  {
+    "id": "436611",
+    "name": "Sally",
+    "gender": "Female",
+    "breed": "Staffordshire Bull Terrier Mix"
+  },
+  {
+    "id": "436612",
+    "name": "Olaf",
+    "gender": "Male",
+    "breed": "Staffordshire Bull Terrier Mix"
+  },
+  {
+    "id": "436613",
+    "name": "Motley",
+    "gender": "Male",
+    "breed": "Staffordshire Bull Terrier Mix"
+  },
+  {
+    "id": "436614",
+    "name": "Maverick",
+    "gender": "Male",
+    "breed": "Staffordshire Bull Terrier Mix"
+  },
+  {
+    "id": "436620",
+    "name": "Ziggy",
+    "gender": "Male",
+    "breed": "Staffordshire Bull Terrier Mix"
+  },
+  {
+    "id": "436624",
+    "name": "Frederick",
+    "gender": "Male",
+    "breed": "Staffordshire Bull Terrier Mix"
+  },
+  {
+    "id": "436625",
+    "name": "Casper",
+    "gender": "Male",
+    "breed": "Staffy Mix"
+  },
+  {
+    "id": "436629",
+    "name": "Prudence",
+    "gender": "Female",
+    "breed": "Bull Arab Mix"
+  },
+  {
+    "id": "436648",
+    "name": "Daisy And Rosie",
+    "gender": "Female",
+    "breed": "Cocker Spaniel, English x Silky Terrier"
+  },
+  {
+    "id": "436730",
+    "name": "Porsche",
+    "gender": "Female",
+    "breed": "Kelpie Mix"
+  },
+  {
+    "id": "436758",
+    "name": "Axel ",
+    "gender": "Male",
+    "breed": "Great Dane Mix"
+  },
+  {
+    "id": "436763",
+    "name": "Bilbo Baggins",
+    "gender": "Male",
+    "breed": "Fox Terrier Mix"
+  },
+  {
+    "id": "436780",
+    "name": "Sharka",
+    "gender": "Male",
+    "breed": "Border Collie x Husky x Kelpie Mix"
+  },
+  {
+    "id": "436792",
+    "name": "Drago",
+    "gender": "Male",
+    "breed": "American Staffordshire Terrier x Cross Breed Mix"
+  },
+  {
+    "id": "436794",
+    "name": "Billy",
+    "gender": "Male",
+    "breed": "Maltese Mix"
+  },
+  {
+    "id": "436836",
+    "name": "Milo",
+    "gender": "Female",
+    "breed": "Kelpie"
+  },
+  {
+    "id": "436838",
+    "name": "Cookie",
+    "gender": "Male",
+    "breed": "Maltese x Shih Tzu"
+  },
+  {
+    "id": "436839",
+    "name": "Priscilla",
+    "gender": "Female",
+    "breed": "Terrier Mix"
+  },
+  {
+    "id": "436840",
+    "name": "Razz",
+    "gender": "Female",
+    "breed": "Kelpie"
+  },
+  {
+    "id": "436880",
+    "name": "Dante",
+    "gender": "Male",
+    "breed": "Bichon Frise x Shih Tzu Mix"
+  },
+  {
+    "id": "436885",
+    "name": "Buster Id: 30468",
+    "gender": "Male",
+    "breed": "Border Collie Mix"
+  },
+  {
+    "id": "436911",
+    "name": "Cougar",
+    "gender": "Male",
+    "breed": "Mastiff Mix"
+  },
+  {
+    "id": "436919",
+    "name": "Bailey",
+    "gender": "Male",
+    "breed": "Bichon Frise x Shih Tzu Mix"
+  },
+  {
+    "id": "436921",
+    "name": "Rodger",
+    "gender": "Male",
+    "breed": "Australian Cattle Dog Mix"
   }
 ]
